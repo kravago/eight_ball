@@ -1,4 +1,4 @@
-.Eightball {
+.Eightball {    
   display: flex;
   justify-content: center;
   height: 500px;
@@ -9,6 +9,5 @@
 
 .Eightball-text {
   color: white;
-  text-align: center;
   margin: auto;
 }
